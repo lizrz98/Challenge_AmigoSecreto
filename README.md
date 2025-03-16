@@ -1,4 +1,4 @@
-# ** El juego del Amigo Secreto **
+# **El juego del Amigo Secreto**
 
 ## Este es un proyecto que permite a los usuarios que interactuen con el, puedan agregar nombres a una lista para poder realizar un sorteo aleatorio que pueda elegir al amigo secreto.
 
